@@ -1,3 +1,4 @@
+## regpoly function
 regpoly <-
 function(n=3, r=1, x=0, y=0, plot=TRUE, add=FALSE, ...) {
     validate.args(n, r)
